@@ -1,3 +1,3 @@
-def
-say_hello("Loreen")
-end
+
+puts "hello,#{"Loreen"}!
+
